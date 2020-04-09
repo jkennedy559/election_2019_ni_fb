@@ -1,4 +1,4 @@
-#### Goal - Analysis the use of facebook advertising by the main political parties in Northern Ireland.
+#### Goal - Analyse the use of facebook advertising by the main political parties in Northern Ireland.
 
 1. Collect data from the Facebook Ad Library API from the 6th of November, the official date the election started,
     to the 12th of December at 10pm, the date when polls closed. The political parties in the analysis will be
